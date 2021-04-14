@@ -1,0 +1,596 @@
+1.        Dr.Heidegger, once invited four venerable friends.
+Dr.Heidegger/S
+invited/V
+friends/O
+ 
+ 
+2.  They met in his study.
+Dr.Heidegger, Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly /S
+meet/V
+Dr.Heidegger, Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/O
+ 
+3.       They were three white-bearded gentlemen.
+                Mr.Medbourne , Colonel Killigrew,  Mr.Gascoigne /S
+                Be/V
+                Gentlemen/O
+ 
+ 4.  There was a thin old lady, she called Widow Wycherly, whose husband had died.    
+        there/S
+        be/V
+        Widow Wycherly/O
+        
+4.  Mr.Medbourne, in the vigor of his age, had been a prosperous merchant.
+                Mr. Medbourne/S
+be/V
+merchant/O
+ 
+5.     Mr.Medbourne lost his all by a frantic speculation, and was now little better than a mendicant.
+           Mr.Medbourne/S
+loose/V
+speculation/O
+
+
+5. Mister Medbourne had lost all his money in a badly planned business deal. 
+Mr.Medbourne/S
+loose/V    
+money/O
+6. Colonel Killigrew had wasted his best years enjoying the pleasures of the drink and women.
+Colonel Killigrew/S
+Waste/V
+Years, health/O
+
+
+7. Colonel Killigrew was pursuing sins and pleasures.  
+        Colonel Killigrew/S
+Pursue/V
+Sins, pleasures/O
+ 
+ 8. Mr.Gascoigne was a ruined politician.  
+         Mr.Gascoigne/S
+                Be/V
+                Politician/O
+
+
+9. He had been a man of evil fame. 
+        Mr.Gascoigne/S
+    Be/V  
+    Evil fame /O
+10. As for the Widow Wycherly, she was a great beaty. 
+        Widow Wycherly/S
+        Be/V
+        beaty/O
+
+
+11. But shocking stories tells that for a long past she had lived in isolation. 
+        Widow Wycherly/S
+        Live/V
+        Isolation /O 
+12. Stories about her past also tells that people in town always rejected her. 
+        People/S
+        reject/V
+        Widow Wycherly/O
+12.It is worth stating that Mr.Medbourne, Colonel Killigrew, and Mr.Gascoigne, were early lovers of the Widow Wycherly
+        Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne/S
+        be/V
+Lover, Widow Wycherly/O
+
+
+13. For the sake they were cutting each other. 
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne/S
+    Cut/V
+    Each other/O
+
+
+14. Sometime Dr.Heidegger and his all guests were worried by the present troubles and worful recollections
+    Dr.Heidegger, guest /S
+    Worry/V
+    Trouble, recollection /O
+
+
+15. "My dear old friends" said Dr.Heidegger. 
+    Dr.Heidegger/S
+    say/V
+    friend/O
+16. “I  am desiring your assistance in the little experiments ” said Dr.Heidegger.
+    Dr.Heidegger/S
+    Desire/V
+    Assistance/O
+
+
+17.  Study room festooned with cobwebs, and besprinkled with antique dust. 
+     Study room/S
+    Festoon, besprinkle/V
+    cobwebs,dust/O
+
+
+18. An old mirror hanging between two bookcases was said to show the ghosts of all the doctors dead patients. 
+    mirror/S
+    show/V
+    ghost/O
+
+
+18. bookcases were filled with rows of gigantic folios and black-letter quartos, and the upper with little parchment covered duodecimos.
+    bookcase/S
+    fill/V
+    Folio, quarto, duodecimos/O
+19. In the obscurest corner of the room stood a tall and narrow oaken skeleton, 
+    Corner, room/S
+    stay/V
+    skeleton/O
+
+
+20.The opposite side of the chamber was ornamented with the full-length portrait of a young lady.
+    chamber/S
+    ornamented/V
+    Portrait, lady/O
+
+
+21. Dr. Heidegger had been married with this young lady.    
+    
+    Dr. Heidegger/ S
+    marry/V
+    Sylvia Ward/O
+
+
+22.  But wife swallowed one of her lover's prescriptions.
+
+
+Sylvia Ward/S
+swallow/V
+prescription/O    
+23. Which after some time, drinking one of the doctor’s medicines she died. 
+    
+    medicine/S
+    die/V
+    Sylvia Ward/O
+
+
+24.The most mysterious object in the room was a large book covered in black leather.
+    book/S
+    cover/V
+    leather/O
+25.  There were no letters on the back. 
+    Book/S
+    be/V
+    letters/O
+
+
+26. But it was known to be a book of magic. 
+    Book/S
+    be/V
+    magic/O
+
+
+27. Once the chambermaid had lifted the book. 
+    
+    chambermaid/S
+    lift/V
+    book/O
+
+
+28. Instantly the scary skeleton had rattled in its closet. 
+    
+    skeleton/S
+    rattle/V
+    closet/O
+29. The picture of the young lady had stepped the floor.
+    
+    picture/S
+    step/V
+    floor/O
+
+
+30. Several ghastly faces had peeped forth from the mirror. 
+
+
+face/S
+peep/V
+mirror/O
+
+
+31. Such was Dr. Heidegger's study.
+
+
+Dr.Heidegger/S
+be/V
+study/O
+32.  On the summer afternoon, small, round, black table, stood in the centre of the room.
+table/S
+stay/V
+room/O
+33. The sunshine came through the window, between the heavy festoons of two faded damask curtains.
+sunshine/S
+come/V
+window/O
+33. On the table was a beatiful cut-glass vase. 
+    cut-glass/S
+    be/V
+    table/O
+34. Doctor Heidegger was known for his unusual experiments. 
+    Dr.Heidegger/S
+    know/V
+    experiment/O
+34. But his four guests didn’t expect anything
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/S
+    expect/V
+    anything/O
+
+
+34. "My dear old friends," repeated Dr.Heidegger. 
+         Dr.Heidegger/S
+         repeat/V
+         Friend/O
+35. "may I reckon on your aid in performing an exceedingly curious experiment?" asked he. 
+    Dr.Heidegger/S
+    Ask, reckon/V
+    Aid, experiment/O
+36. Now, the doctor Heidegger had become nucleus for thousand fantastic stories. 
+    Dr.Heidegger/S
+    come/V
+    stories/O
+37. When the doctor’s four guests heard him talk of his proposed experiment, they anticipated nothing more wonderful than the murder of a mouse in an air pump.
+        
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/S
+    anticipate/V
+    Murder, mouse/O
+38. later without listening, he took black-lettered pages of magic, or what was once a rose    
+    Dr.Heidegger/S
+    Took/V
+    magic/O
+38. After picking up his black book leather of magic from pages he removed a dried-up old rose.
+    Dr.Heidegger/S
+    remove/V
+    rose/O
+39.Ancient flower was totally ready to crumble to dust in doctor’s hand
+    flower/S
+ crumble/V
+    hand/O
+40. He said this flower was given my by Sylvia Ward, whose portrait hangs yonder. 
+    flower/S
+    give/V
+    Sylvia Ward/O
+41. I meant to wear it in my bosom at our wedding, five and fifty years it has been treasured between the leaves of this old volume. 
+    Flower/S
+    Wear/V
+    Wedding/O
+42. He reached for the vase, and threw the dried rose into the water which it contained.
+Dr.Heidegger/S
+throw/V
+rose/O
+    
+43. At first, it lay lightly on the surface of the fluid, appearing to imbibe none of its moisture.
+    Rose/S
+    lay/V
+    fluid/O
+44.  The crushed and dried petals stirred, and assumed a deepening tinge of crimson.
+    petals/S
+    stir/V
+    crimson/O
+45.   There was the rose of half a century, looking as fresh as when Sylvia Ward had first given it to her lover. 
+    Rose/S
+    be/V
+    rose/O
+46.  It was scarcely full blown; for some of its delicate red leaves curled modestly around its moist bosom, within which two or three dewdrops were sparkling.
+    
+    leaves/S
+    curle/V
+    bosom/O
+46. That is a very pretty trick said the doctors friends. 
+    Dr.Heidegger, Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/S
+    say/V
+    trick/O
+
+
+
+
+47. "That is certainly a very pretty deception," said the doctor's friends; carelessly, however, for they had witnessed greater miracles at a conjurer's show; "pray how was it effected?" 
+    
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/S
+    say/V
+    deception/O
+48. "Did you never hear of the 'Fountain of Youth?' " asked Dr. Heidegger. 
+    Dr.Heidegger/S
+    ask/V
+    Fountaint of youth/O
+49.  Its source is overshadowed by several gigantic magnolias, which, though numberless centuries old, have been kept as fresh as violets by the virtues of this wonderful water.
+    shadow/S
+    keep/V
+    violet/O
+
+
+50.  With your permission, therefore, I will merely watch the progress of the experiment.    
+    Dr.Heidegger/S
+    watch/V
+    experiment/O
+
+
+51. While he spoke, Dr.Heidegger had been filling the four champagne glasses with the water of the Fountain of Youth. 
+    Dr.Heidegger/S
+    fill/V
+    glass/O
+51. Liquid produced little bubbles that rose up to the silvery surface. 
+    liquid/S
+    produce/V
+    bubble/O
+
+
+52. As the liquor diffused a pleasant perfume, the old people doubted not that it possessed cordial and comfortable properties
+    Colonel Killigrew/S
+    doubt/V
+    property/O
+
+
+53. Dr.Heidegger clarified the guidance, in passing a second time through the perils of youth. 
+    
+    Dr.Heidegger/S
+    clarify/V
+    guidance/O
+54. The doctor's four venerable friends made him no answer, except by a feeble and tremulous laugh
+    
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/S
+    make/V
+    laugh/O
+    
+55. "Drink, then," said the doctor, bowing: "I rejoice that I have so well selected the subjects of my experiment." 
+    
+    Dr.Heidegger/S
+    select/V
+    subject/O
+    
+55. The old guests agreed to drink the water, although they did not believe in its power.
+ Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/S    
+agree/V
+water/O
+
+
+56. With palsied hands, they raised the glasses to their lips. 
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/S
+    raised/V
+    glass/O
+60. The idea that they would ever repeat the mistakes of their youth was very funny. 
+    idea/S
+    was/V
+    funny/O
+
+
+
+
+61. If the liquid was magical, it could not have been given to four human beings who needed it more, in fact it is reality. 
+Liquid/S
+be/V
+reality/O
+62. They looked like they had always been the weak creatures.
+ Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/S
+ like/V
+creature/O
+63. They feel like they had always been the unhappiest ever creatures who were bent over the doctor’s table.
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/S
+    bent/V
+    table/O
+64. They drank the water.
+ Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/S
+drink/V
+water/O
+65. There was an almost immediate improvement among the guests.
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/S
+    improve/V
+    health/O
+66. A cheerful glow like sunshine brightened their faces. 
+    Glow/S
+    brighten/V
+    face/O
+67. Thy had looked at one another imagining that some magic power had really started to smooth the lines on their faces.
+     Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/S
+     imagine/V
+    power/O
+68. “Quick”, give us more of this wonderful and astonishing magic water, please” they asked.
+     Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/S
+    ask/V
+    water/O
+69. “Patience” said the Doctor Heidegger who watched the experiment with scientific coolness.
+     Dr.Heidegger/S
+    say/V
+    patience/O
+    Dr.Heidegger/S
+    say/V
+    guests/O
+71. Surely you could wait half an hour to grow young.
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/S
+    wait/V
+    young/O
+72. Again he filled the glasses for them with water.
+    Dr.Heidegger/S
+    fill/V
+    Water/O
+73. The four guests drank all the water that he has in one swallow.
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/S
+    drink/V
+    Water/O
+74. As the water passed through the throat it seemed like changing their whole system
+    water/S
+    change/V
+    system/O
+75. Their eyes grew clear and bright for this kind of human being. 
+    Eyes/S
+    grow/V
+    human/O
+76. Their hair turned from silver, white headed to more darker stage. 
+    Hair/S
+    turn/V
+    stage/O
+77. My dear Widow, you are lovely cried Colonel Killigrew. 
+    Colonel Killigrew/S
+    cried/V
+    Widow/O
+78. Three men started to behave in such a way that proved the magic of the Fountain of Youth’s water. 
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne/S
+    behave/V
+    water/O
+79. The Widow ran to the mirror
+    Widow/S
+    ran/V
+    mirror/O
+80. Mister Gascoigne’s mind turned to politics.
+    mind/S
+    turn/V
+    politics/O
+    
+81. He talked about nationalism     and the rights of people. 
+    Mr.Gascoigne/S
+    talk/V
+    naionalism/O
+82. He also told secrets softly to himself. 
+    Mr.Gascoigne/S
+    tell/V
+    secret/O
+83. All this time Colonel Killigrew had been shouting out happy drinking songs while his eyes turned towards the curvy body of the Widow Wycherly
+    Colonel Killigrew/S
+    shout/V
+    songs/O
+
+
+84. Mister Medbourne was adding dollars and cents to pay for a proposed project.
+    Mr.Medbourne/S
+    adding/V
+    dollars/O
+85.It would supply the East Indies with ice by linking a team of whales to the polar icebergs. 
+    Money/S
+    supply/V
+    Indie/O
+86. As for the Widow Wycherly, she stood in front of the mirror greeting her image as a friend she loved better than anything in the world. 
+    Widow Wycherly/S
+    Love/V
+    image/O
+87. “My dear old doctor”, she asked,  “please give me another glass!”.
+    Widow Wycherly/S
+    ask/V
+    glass/O
+88. The doctor had already filled the glasses again. 
+    Dr.Heidegger/S
+    fill/V
+    glass/O
+89. It was now near sunset and the room was darker than ever.
+    room/S
+    be/V
+    sunset/O
+90. As the four guests drank their third glass of water, they were silenced by the expression on the doctor’s mysterious face.
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly /S
+    silenced/V
+    Dr.Heidegger/O
+91. The doctor sat in his chair.
+    Dr. Heidegger/S
+    sit/V
+    chair/O
+92. The next moment, the exciting and fascinating rush of young life shot their blood.
+    Life/S
+    shoot/v
+    blood/O
+93. They were now at the happy height of youth. 
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly /S
+    be/V
+    youth/O
+94. The endless cares, sadness, and diseases of age were remembered only as a troubled dream from which they had awoken. 
+    Sadness, disease/S
+    remember/V
+    dream/O
+95. We are at our happy youth they said.
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly /S
+    say/V
+    youth/O
+96. The guests were a group of happy youngsters almost crazy with energy. 
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly /S
+    be/V
+    youngsters/O
+97. They laughed at the old-fashioned clothing they wore. 
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly /S
+    laugh/V
+    clothe/O
+98. They shouted happily and jumpbed around the room.
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly /S
+    jump/V
+    room/O
+99. The Widow Wycherly - if such a young lady could be called a widow - ran to the doctor’s chair and asked him to dance. 
+    Widow Wycherly/S
+    ask/V
+    Dr.Heidegger/O
+100. My dancing were over a long time ago, I can’t dance anymore - replied Doctor Heidegger.
+    Dr.Heidegger/S
+    can’t/V
+    time/O
+101. But these three young men would be really happy to have a such a beautiful and  lovely partner.
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne/S    
+    be/V
+    partner/O
+102. The men began to argue violently about who would dance with her and they gathered around the Widow Wycherly, each grabbing for her.  
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne/S
+    gather/V
+    Widow Wycherly/O
+103. Yet. be strange trick owing to the darkness of the room, the tall mirror is said to have relfected the forms of three old, gray men competing for a faded, old woman. 
+    mirror/S
+    reflect/V
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly/O
+104. As three fought for the woman’s favor they reached violently for each other’s throats. 
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne/S    
+    fight/V
+    throat/O
+105. In their struggle, they completely with full power turned over the table. 
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne/S
+    Turn/V
+    table/O
+106. The vase broke into a thousand pieces. 
+    vase/S
+    break/V
+    piece/O
+107. The water of Youth flowed in a bright stream accross the floor. 
+    water/S
+    flow/V
+    floor/O
+108. They guests stood still in the room. 
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly /S
+    stay/V
+    room/O
+109. The strange coldness was slowly stealing over them all. 
+    coldness/S
+    steal/V
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly /O
+110. They looked at Doctor Heidegger who was holding his treasured rose. 
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly /S
+    look/V
+    Dr.Heidegger/O
+111. The flower was fading and drying up once more in the light. 
+    Flower/S
+    fade/V
+    light/O
+112. The guests looked at each other and saw their faces changing back. 
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly /S
+    change/V
+    face/O
+113. “Are we grown old again so soon?” they cried. 
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly /S
+    cry/V
+    grown/O
+114. The water of youth Youth had powers that were only temporary. 
+power/S
+    be/V
+    temporar/O
+115. And the water of youth lies wasted on the ground. 
+    water/S
+    lie/V
+    ground/O
+116. But even if it flowed in a river at my door, I still would not drink it. 
+    Water/S
+    flow/V
+    door/O
+117. This is the lesson you have taught me. 
+    lesson/S
+    teach/V
+    Dr.Heidegger/O
+118. But the doctor’s four friends had ignored such lesson.
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly /S
+    ignore/V
+    lesson/O
+119. They decided at that moment to travel to Florida and drink morning, noon, and night from the Fountain of Youth. 
+    Mr.Medbourne, Colonel Killigrew, Mr.Gascoigne, Widow Wycherly /S
+    decide/V
+    travel/O
+
