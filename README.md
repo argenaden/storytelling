@@ -1,2 +1,2 @@
-# storytelling
-automatic storytelling 
+# Storytelling
+Automatic storytelling 
